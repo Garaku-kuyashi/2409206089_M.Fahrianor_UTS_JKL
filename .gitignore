@@ -1,0 +1,15 @@
+# Virtual environment & cache
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Log / backup hasil eksekusi
+*.log
+*.bak
+*.backup
+backup/
+logs/
+
+# Helper lokal
+setup_repo.sh
